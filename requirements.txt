@@ -1,0 +1,6 @@
+sqlite3
+bcrypt
+uuid
+streamlit
+re
+datetime
